@@ -1,0 +1,4 @@
+define alphabet.
+ask user for input
+use a loop to check each char in user input
+use mathematical formula c = (x + n) % 26 to check each char
